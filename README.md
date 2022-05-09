@@ -1,2 +1,3 @@
-# sultanDesign
-my friend's company 
+'https://laiquzzama.github.io/sultanDesign/'
+
+
